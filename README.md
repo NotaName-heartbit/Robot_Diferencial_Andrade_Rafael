@@ -8,7 +8,7 @@ Se comparan los resultados obtenidos con y sin saturación de actuadores, mostra
 # Contenido
 - `/codigo/` → Scripts en MATLAB (`.m`) para cada método y la simulación completa.  
 - `/evidencias/` → Imágenes de las gráficas y animación (`.gif`).  
-- `README.md` → Documento explicativo con tabla comparativa y conclusiones.  
+  
 
 # Parámetros principales
 - Radio de rueda: 0.08 m  
